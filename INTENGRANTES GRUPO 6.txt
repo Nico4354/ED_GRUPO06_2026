@@ -1,5 +1,5 @@
 INTENGRANTES GRUPO 6
-Torres Ludeña Percy Elias #C
+C# - Torres Ludeña Percy Elias 
 Arizaga Paez José Ricardo Francois
 Evangelista Joaquín Daniel Edgar
 Cotrina Quiroz Luz Natalia
